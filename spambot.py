@@ -18,7 +18,7 @@ import random
 # import bs4       
 # import requests
 
-token = "토큰" 
+
 client = commands.Bot(command_prefix='!')
 # intents = discord.Intents.default()
 # client = discord.Client(intents=intents)
